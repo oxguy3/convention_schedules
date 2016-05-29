@@ -1,6 +1,6 @@
 # RTX
 
-Web page schedules
+Web page schedules:
 * RTX 2012
 ** [Conferize](https://www.conferize.com/conferences/rtx-2012/schedule)
 * RTX 2013
